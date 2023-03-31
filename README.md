@@ -1,4 +1,4 @@
-# MEV-Avengers
+# Educational purposes - MEV-Avengers
 MEV Avengers: Assembling the Most Profitable Strategies in the Universe
 
 1. Identify a transaction with a potential MEV opportunity. This can be done through various means such as monitoring transaction pools, analyzing smart contracts, or using MEV-specific tools like Flashbots or ArcherDAO.
